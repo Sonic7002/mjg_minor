@@ -1,4 +1,4 @@
-# This class contains utility functions for ui use
+# This file contains utility functions for ui use
 import os
 
 def clear_screen():
